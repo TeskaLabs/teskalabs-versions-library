@@ -1,0 +1,24 @@
+---
+define:
+  type: rc/version
+  product: LogMan.io
+  version: v24.22
+
+versions:
+  lmio-collector: v24.19
+  lmio-receiver: v24.19
+  lmio-parsec: v24.20
+  lmio-depositor: v24.21
+  lmio-alerts: v24.18
+
+  lmio-elman: v24.22-beta3
+
+  lmio-lookupbuilder: v24.12
+  lmio-ipaddrproc: v24.12
+
+  lmio-baseliner: v24.22
+  lmio-correlator: v24.22-beta
+  lmio-watcher: v24.15
+
+  library lmio-common-library: v24.22
+  # The feature of adding library version to version file will come with next ASAB Remote Control version
