@@ -1,0 +1,65 @@
+stages:
+  - distribute
+
+Azure branch:
+  stage: distribute
+  image: mcr.microsoft.com/azure-cli
+
+  tags:
+    - docker
+    - amd64
+
+  only:
+    - production
+    - main
+
+  script:
+    - apk update
+    - apk add xz
+    - echo ${CI_COMMIT_BRANCH}
+    - tar cf /tmp/lmio-versions-library.tar --exclude='.git'  --exclude='./.git' --exclude='./.gitignore' --exclude='./.gitlab-ci.yml' --exclude='./README.md' --exclude='./CHANGELOG' --exclude='./CONTRIBUTING.md' --exclude='./LICENSE' .
+    - xz -9 -e -T 0 /tmp/lmio-versions-library.tar
+    - ls /tmp
+    - mv /tmp/lmio-versions-library.tar.xz lmio-versions-library-${CI_COMMIT_BRANCH}.tar.xz
+    # Calculate the checksum
+    - sha256sum lmio-versions-library-${CI_COMMIT_BRANCH}.tar.xz > lmio-versions-library-${CI_COMMIT_BRANCH}.tar.xz.sha256
+    
+    - az storage blob upload --overwrite --file lmio-versions-library-${CI_COMMIT_BRANCH}.tar.xz --container-name "\$web" --name "lmio-versions-library/lmio-versions-library-${CI_COMMIT_BRANCH}.tar.xz" --connection-string "$AZURE_STORAGE_CONNECTION_STRING"
+    - az storage blob upload --overwrite --file lmio-versions-library-${CI_COMMIT_BRANCH}.tar.xz.sha256 --container-name "\$web" --name "lmio-versions-library/lmio-versions-library-${CI_COMMIT_BRANCH}.tar.xz.sha256" --connection-string "$AZURE_STORAGE_CONNECTION_STRING"
+
+  artifacts:
+    paths:
+      - lmio-versions-library-${CI_COMMIT_BRANCH}.tar.xz
+      - lmio-versions-library-${CI_COMMIT_BRANCH}.tar.xz.sha256
+
+Azure tag:
+  stage: distribute
+  image: mcr.microsoft.com/azure-cli
+
+  tags:
+    - docker
+    - amd64
+
+  only:
+    - tags
+  except:
+    - branches
+
+  script:
+    - apk update
+    - apk add xz
+    - echo ${CI_COMMIT_REF_NAME}
+    - tar cf /tmp/lmio-versions-library.tar --exclude='.git'  --exclude='./.git' --exclude='./.gitignore' --exclude='./.gitlab-ci.yml' --exclude='./README.md' --exclude='./CHANGELOG' --exclude='./CONTRIBUTING.md' --exclude='./LICENSE' .
+    - xz -9 -e -T 0 /tmp/lmio-versions-library.tar
+    - ls /tmp
+    - mv /tmp/lmio-versions-library.tar.xz lmio-versions-library-${CI_COMMIT_REF_NAME}.tar.xz
+    # Calculate the checksum
+    - sha256sum lmio-versions-library-${CI_COMMIT_REF_NAME}.tar.xz > lmio-versions-library-${CI_COMMIT_REF_NAME}.tar.xz.sha256
+    
+    - az storage blob upload --overwrite --file lmio-versions-library-${CI_COMMIT_REF_NAME}.tar.xz --container-name "\$web" --name "lmio-versions-library/lmio-versions-library-${CI_COMMIT_REF_NAME}.tar.xz" --connection-string "$AZURE_STORAGE_CONNECTION_STRING"
+    - az storage blob upload --overwrite --file lmio-versions-library-${CI_COMMIT_REF_NAME}.tar.xz.sha256 --container-name "\$web" --name "lmio-versions-library/lmio-versions-library-${CI_COMMIT_REF_NAME}.tar.xz.sha256" --connection-string "$AZURE_STORAGE_CONNECTION_STRING"
+
+  artifacts:
+    paths:
+      - lmio-versions-library-${CI_COMMIT_REF_NAME}.tar.xz
+      - lmio-versions-library-${CI_COMMIT_REF_NAME}.tar.xz.sha256
