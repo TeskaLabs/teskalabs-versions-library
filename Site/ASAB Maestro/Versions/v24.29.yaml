@@ -9,6 +9,7 @@ versions:
   asab-governator: v24.29
   asab-iris: v24.25
   asab-library: v24.28
+  asab-pyppeteer: v24.18
   asab-remote-control: v24.29
   bs-query: v24.25
   elasticsearch: '7.17.21'
