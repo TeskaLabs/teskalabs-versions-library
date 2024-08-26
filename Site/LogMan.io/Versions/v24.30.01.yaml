@@ -2,9 +2,8 @@
 define:
   type: rc/version
   product: LogMan.io
-  version: v24.30
+  version: v24.30.01
   asab_maestro_library: v24.29
-  demoted: true  # due to correlator. Use v24.30.01 instead.
 
 versions:
   lmio-collector: v24.25
@@ -21,6 +20,6 @@ versions:
   system-collector: v24.25
 
   lmio-baseliner: v24.30
-  lmio-correlator: v24.30
+  lmio-correlator: v24.30.01
 
-  library lmio-common-library: v24.30
+  library lmio-common-library: v24.30.01
