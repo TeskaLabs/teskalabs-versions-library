@@ -14,8 +14,8 @@ Azure branch:
     - main
 
   script:
-    - apk update
-    - apk add xz
+    - yum update -y
+    - yum install tar xz -y
     - echo ${CI_COMMIT_BRANCH}
     - tar cf /tmp/teskalabs-versions-library.tar --exclude='.git'  --exclude='./.git' --exclude='./.gitignore' --exclude='./.gitlab-ci.yml' --exclude='./README.md' --exclude='./CHANGELOG' --exclude='./CONTRIBUTING.md' --exclude='./LICENSE' .
     - xz -9 -e -T 0 /tmp/teskalabs-versions-library.tar
@@ -46,8 +46,8 @@ Azure tag:
     - branches
 
   script:
-    - apk update
-    - apk add xz
+    - yum update -y
+    - yum install tar xz -y
     - echo ${CI_COMMIT_REF_NAME}
     - tar cf /tmp/teskalabs-versions-library.tar --exclude='.git'  --exclude='./.git' --exclude='./.gitignore' --exclude='./.gitlab-ci.yml' --exclude='./README.md' --exclude='./CHANGELOG' --exclude='./CONTRIBUTING.md' --exclude='./LICENSE' .
     - xz -9 -e -T 0 /tmp/teskalabs-versions-library.tar
