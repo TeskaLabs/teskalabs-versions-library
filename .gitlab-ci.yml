@@ -3,7 +3,7 @@ stages:
 
 Azure branch:
   stage: distribute
-  image: mcr.microsoft.com/azure-cli
+  image: mcr.microsoft.com/azure-cli:2.62.0-cbl-mariner2.0
 
   tags:
     - docker
@@ -34,7 +34,7 @@ Azure branch:
 
 Azure tag:
   stage: distribute
-  image: mcr.microsoft.com/azure-cli
+  image: mcr.microsoft.com/azure-cli:2.62.0-cbl-mariner2.0
 
   tags:
     - docker
