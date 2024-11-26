@@ -20,8 +20,8 @@ versions:
   lmio-collector-system: v24.44-beta
 
   lmio-baseliner: v24.39-beta3
-  lmio-correlator: v24.39-beta7
-  lmio-correlator-builder: v24.39-beta7
+  lmio-correlator: v24.39-beta9
+  lmio-correlator-builder: v24.39-beta9
 
   lmio-integ: v24.40-beta
   lmio-categorix: v24.45-beta
