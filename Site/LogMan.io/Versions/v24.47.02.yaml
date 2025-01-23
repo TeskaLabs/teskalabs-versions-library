@@ -8,7 +8,7 @@ define:
 versions:
   lmio-collector: v24.45
   lmio-receiver: v24.45
-  lmio-parsec: v24.45
+  lmio-parsec: v24.45.01
   lmio-depositor: v24.47
   lmio-alerts: v24.45
 
