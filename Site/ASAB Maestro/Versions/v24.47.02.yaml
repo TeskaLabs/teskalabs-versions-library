@@ -1,0 +1,46 @@
+define:
+  type: rc/version
+  product: ASAB Maestro
+  version: v24.47.02
+
+versions:
+  acmesh: 3.0.7
+  asab-config: v24.29
+  asab-governator: v24.38.01
+  asab-iris: v24.42
+  asab-library: v24.33.06
+  asab-pyppeteer: v24.36
+  asab-remote-control: v24.46
+  bs-query: v24.36
+  elasticsearch: '7.17.21'
+  grafana: '10.3.1'
+  influxdb: '2.7.1'
+  jupyter: lab-4.0.9
+  kafdrop: '4.0.0'
+  kafka: '7.5.1'
+  kibana: '7.17.21'
+  mongo: '7.0.1'
+  nginx: '1.25.2'
+  seacat-auth: v24.39
+  telegraf: '1.28.2'
+  zookeeper: '3.9'
+  zoonavigator: '1.1.2'
+
+  webapp seacat-auth: v24.31
+
+  webapp lmio_webui: v24.43.01
+  webapp asab_config_webui: v24.43.01
+  webapp asab_library_webui: v24.43.01
+  webapp asab_maestro_webui: v24.43.01
+  webapp asab_tools_webui: v24.43.01
+  webapp bs_query_webui: v24.43.01
+  webapp lmio_analysis_webui: v24.43.01
+  webapp lmio_lookup_webui: v24.43.01
+  webapp lmio_observability_webui: v24.43.01
+  webapp lmio_alert_management_webui: v24.43.01
+  webapp lmio_parser_builder_webui: v24.43.01
+  webapp seacat_admin_webui: v24.43.01
+  webapp seacat_account_webui: v24.43.01
+  webapp lmio_logsources_webui: v24.43.01
+
+  library asab-maestro-library: v24.47.02
