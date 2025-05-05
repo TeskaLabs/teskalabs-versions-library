@@ -6,7 +6,7 @@ define:
 versions:
   library asab-maestro-library: v25.15-beta4
 
-  seacat-auth: v25.05-beta2
+  seacat-auth: v25.05-beta3
   webapp seacat-auth: v24.31
 
   asab-config: v25.12.01
