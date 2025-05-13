@@ -10,7 +10,7 @@ versions:
   webapp seacat-auth: v24.31
 
   asab-config: v25.12.01
-  asab-discovery: v25.05.01
+  asab-discovery: v25.15.01
   asab-governator: v25.05
   asab-iris: v25.10
   asab-library: v25.15.02
