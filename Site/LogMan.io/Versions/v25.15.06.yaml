@@ -21,7 +21,7 @@ versions:
   lmio-correlator: v25.15.28
   lmio-correlator-builder: v25.15.28
   lmio-alerts: v25.12.02
-  lmio-watcher: v25.15.05
+  lmio-watcher: v25.15.06
 
   lmio-categorix: v24.45.05
   lmio-feeds: v25.15.02
