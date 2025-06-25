@@ -18,8 +18,8 @@ versions:
   lmio-ipaddrproc: v25.03.05
 
   lmio-baseliner: v25.15.15
-  lmio-correlator: v25.15.28
-  lmio-correlator-builder: v25.15.28
+  lmio-correlator: v25.15.29
+  lmio-correlator-builder: v25.15.29
   lmio-alerts: v25.12.02
   lmio-watcher: v25.15.06
 
