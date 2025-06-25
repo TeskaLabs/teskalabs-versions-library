@@ -47,4 +47,3 @@ versions:
   telegraf: "1.34.1"
   zookeeper: "3.9"
   zoonavigator: "1.1.2"
-  
