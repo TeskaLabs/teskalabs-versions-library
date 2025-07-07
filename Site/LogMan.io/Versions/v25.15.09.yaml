@@ -2,11 +2,11 @@
 define:
   type: rc/version
   product: LogMan.io
-  version: v25.15.08
+  version: v25.15.09
   asab_maestro_library: v25.15.05
 
 versions:
-  library lmio-common-library: v25.15.08
+  library lmio-common-library: v25.15.09
 
   lmio-collector: v25.11.03
   lmio-collector-system: v25.11.03
