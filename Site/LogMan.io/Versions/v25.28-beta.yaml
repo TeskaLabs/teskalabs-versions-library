@@ -19,7 +19,7 @@ versions:
   lmio-ipaddrproc: v25.03.06
   lmio-depositor: v25.20-beta4
 
-  lmio-baseliner: v25.20-beta5
+  lmio-baseliner: v25.20-beta6
   lmio-correlator: v25.20-beta5
   lmio-correlator-builder: v25.20-beta5
   lmio-watcher: v25.20-beta5
