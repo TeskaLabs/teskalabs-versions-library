@@ -1,0 +1,30 @@
+---
+define:
+  type: rc/version
+  product: LogMan.io
+  version: v25.28-beta5
+  asab_maestro_library: v25.28-beta
+
+versions:
+  library lmio-common-library: v25.28-beta3
+
+  lmio-elman: v25.21
+
+  lmio-collector: v25.11
+  lmio-collector-system: v25.11
+  lmio-categorix: v24.45.05
+  lmio-receiver: v25.25
+  lmio-parsec: v25.23.01
+  lmio-lookupbuilder: v25.03.06
+  lmio-ipaddrproc: v25.03.06
+  lmio-depositor: v25.20
+
+  lmio-baseliner: v25.20
+  lmio-correlator: v25.20
+  lmio-correlator-builder: v25.20
+  lmio-watcher: v25.20.01
+  lmio-feeds: v25.20
+  lmio-alerts: v25.25
+  lmio-integ: v25.25.01
+
+  lmio-franz: v25.23
