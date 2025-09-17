@@ -13,13 +13,14 @@ versions:
   webapp seacat_auth_webui: v25.25-beta
 
   # ASAB
-  asab-config: v25.12.06
-  asab-discovery: v25.15.03
+  asab-remote-control: v25.37-beta
   asab-governator: v25.25
+  asab-discovery: v25.15.03
+
+  asab-config: v25.12.06
   asab-iris: v25.37-beta
   asab-library: v25.37-beta
   asab-pyppeteer: v25.11.02
-  asab-remote-control: v25.37-beta
   bs-query: v25.31-beta
 
   # WebUI
