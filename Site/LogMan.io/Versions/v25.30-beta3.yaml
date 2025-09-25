@@ -7,10 +7,10 @@ define:
 
 versions:
   # Common Library
-  library lmio-common-library: v25.30-beta4
+  library lmio-common-library: v25.30-beta5
 
   # Orchestration
-  lmio-elman: v25.30-beta2
+  lmio-elman: v25.30-beta3
   lmio-trex: v25.33-beta3
   lmio-franz: v25.23.02
 
