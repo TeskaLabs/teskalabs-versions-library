@@ -13,7 +13,7 @@ versions:
   webapp seacat_auth_webui: v25.25.05
 
   # ASAB
-  asab-remote-control: v25.37.01
+  asab-remote-control: v25.37.02
   asab-governator: v25.25
   asab-discovery: v25.15.04
 
