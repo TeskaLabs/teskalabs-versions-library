@@ -11,7 +11,7 @@ versions:
 
   # Orchestration
   lmio-elman: v25.30.01
-  lmio-trex: v25.33.03
+  lmio-trex: v25.33.04
   lmio-franz: v25.23.04
 
   # Event Processing
