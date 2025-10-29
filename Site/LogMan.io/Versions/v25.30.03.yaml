@@ -2,7 +2,7 @@
 define:
   type: rc/version
   product: LogMan.io
-  version: v25.30.02
+  version: v25.30.03
   asab_maestro_application: v25.30.02
 
 versions:
