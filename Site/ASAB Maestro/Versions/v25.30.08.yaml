@@ -1,0 +1,57 @@
+---
+define:
+  type: rc/version
+  product: ASAB Maestro
+  version: v25.30.08
+
+versions:
+  # ASAB Maestro Library
+  library asab-maestro-library: v25.30.03
+
+  # SeaCat Auth
+  seacat-auth: v25.26.03
+  webapp seacat_auth_webui: v25.25.07
+
+  # ASAB
+  asab-remote-control: v25.37.02
+  asab-governator: v25.25
+  asab-discovery: v25.15.04
+
+  asab-config: v25.12.06
+  asab-iris: v25.37.01
+  asab-library: v25.37.01
+  asab-pyppeteer: v25.11.03
+  bs-query: v25.31.01
+
+  # WebUI
+  webapp lmio_webui: v25.25.07
+  webapp asab_config_webui: v25.25.07
+  webapp asab_library_webui: v25.25.07
+  webapp asab_maestro_webui: v25.25.07
+  webapp asab_tools_webui: v25.25.07
+  webapp bs_query_webui: v25.25.07
+  webapp lmio_analysis_webui: v25.25.07
+  webapp lmio_lookup_webui: v25.25.07
+  webapp lmio_observability_webui: v25.25.07
+  webapp lmio_alert_management_webui: v25.25.07
+  webapp lmio_parser_builder_webui: v25.25.07
+  webapp seacat_admin_webui: v25.25.07
+  webapp seacat_account_webui: v25.25.07
+  webapp lmio_logsources_webui: v25.25.07
+  webapp lmio_detection_webui: v25.25.07
+
+  # External dependencies
+  acmesh: 3.0.7
+  burrow: v24.16
+  elasticsearch: '7.17.28'
+  grafana: '12.2.0'
+  influxdb: '2.7.11'
+  jupyter: lab-4.0.9
+  kafdrop: '4.2.0'
+  kafka: '7.9.0'
+  kibana: '7.17.28'
+  mongo: '7.0.1'
+  nginx: '1.25.2'
+  telegraf: '1.34.1'
+  zookeeper: '3.9'
+  zoonavigator: '1.1.2'
