@@ -15,8 +15,8 @@ versions:
   lmio-franz: v25.47
 
   # Event Processing
-  lmio-collector: v25.47-beta
-  lmio-collector-system: v25.47-beta
+  lmio-collector: v25.47
+  lmio-collector-system: v25.47
   lmio-receiver: v25.47-beta
   lmio-ededup: v25.40
 
