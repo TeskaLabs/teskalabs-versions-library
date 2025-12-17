@@ -28,12 +28,12 @@ versions:
   lmio-depositor: v25.35.03
 
   # Analytics
-  lmio-baseliner: v25.47-beta3
-  lmio-correlator: v25.47-beta
-  lmio-correlator-builder: v25.47-beta
+  lmio-baseliner: v25.47-beta5
+  lmio-correlator: v25.47-beta3
+  lmio-correlator-builder: v25.47-beta3
 
-  lmio-feeds: v25.20.16
-  lmio-watcher: v25.30.02
+  lmio-feeds: v25.20.18
+  lmio-watcher: v25.30.04
 
   lmio-alerts: v25.46-beta3
 
