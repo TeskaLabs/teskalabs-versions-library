@@ -10,7 +10,7 @@ versions:
   library lmio-common-library: v25.47-beta6
 
   # Orchestration
-  lmio-elman: v25.47-beta
+  lmio-elman: v25.47-beta2
   lmio-trex: v25.33.05
   lmio-franz: v25.47
 
