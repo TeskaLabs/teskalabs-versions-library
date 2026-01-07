@@ -29,7 +29,7 @@ versions:
 
   # Analytics
   lmio-baseliner: v25.47-beta6
-  lmio-correlator: v25.47-beta3
+  lmio-correlator: v25.47-beta6
   lmio-correlator-builder: v25.47-beta3
 
   lmio-feeds: v25.20.18
