@@ -18,7 +18,7 @@ versions:
   asab-governator: v25.47-beta3
   asab-iris: v25.47-beta2
   asab-library: v25.47-beta2
-  asab-pyppeteer: v25.47-beta
+  asab-pyppeteer: v25.47-beta2
   asab-remote-control: v25.47-beta
   bs-query: v25.46-beta
 
