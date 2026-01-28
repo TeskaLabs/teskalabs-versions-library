@@ -33,7 +33,7 @@ versions:
   lmio-correlator-builder: v25.47
 
   lmio-feeds: v25.20.18
-  lmio-watcher: v25.30.04
+  lmio-watcher: v25.30.05
 
   lmio-alerts: v25.46-beta5
 
