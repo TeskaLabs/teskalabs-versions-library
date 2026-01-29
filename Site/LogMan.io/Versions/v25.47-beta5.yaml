@@ -23,7 +23,7 @@ versions:
   lmio-parsec: v25.47-beta3
   lmio-parser-builder: v25.47-beta3
   lmio-lookupbuilder: v25.03.07
-  lmio-ipaddrproc: v25.03.11
+  lmio-ipaddrproc: v25.03.14
 
   lmio-depositor: v25.35.03
 
