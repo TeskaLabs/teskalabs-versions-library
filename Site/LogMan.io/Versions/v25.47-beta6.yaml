@@ -35,7 +35,7 @@ versions:
   lmio-feeds: v25.20.18
   lmio-watcher: v25.30.05
 
-  lmio-alerts: v25.46-beta5
+  lmio-alerts: v25.46-beta6
 
   lmio-integ: v25.47
 
