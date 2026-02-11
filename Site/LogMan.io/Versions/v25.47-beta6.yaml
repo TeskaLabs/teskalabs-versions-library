@@ -20,7 +20,7 @@ versions:
   lmio-receiver: v25.47-beta2
   lmio-ededup: v25.50-beta
 
-  lmio-parsec: v25.47-beta3
+  lmio-parsec: v25.47-beta4
   lmio-parser-builder: v25.47-beta4
   lmio-lookupbuilder: v25.03.08
   lmio-ipaddrproc: v25.03.14
