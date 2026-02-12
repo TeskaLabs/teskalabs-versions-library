@@ -44,7 +44,7 @@ versions:
   burrow: v24.16
   elasticsearch: '7.17.28'
   grafana: '12.1.0'
-  influxdb: '2.7.11'
+  influxdb: '2.7.12'
   jupyter: lab-4.0.9
   kafdrop: '4.2.0'
   kafka: '7.9.0'
