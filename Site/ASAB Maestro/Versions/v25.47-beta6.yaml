@@ -43,7 +43,7 @@ versions:
   acmesh: 3.0.7
   burrow: v24.16
   elasticsearch: '7.17.28'
-  grafana: '12.1.0'
+  grafana: '12.3'
   influxdb: '2.7.12'
   jupyter: lab-4.0.9
   kafdrop: '4.2.0'
