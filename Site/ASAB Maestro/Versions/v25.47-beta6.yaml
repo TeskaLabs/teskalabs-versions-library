@@ -50,7 +50,7 @@ versions:
   kafka: '7.9.0'
   kibana: '7.17.28'
   mongo: '7.0.28'
-  nginx: '1.25.2'
+  nginx: '1.29.4'
   telegraf: '1.36.1'
   zookeeper: '3.9'
   zoonavigator: '1.1.2'
