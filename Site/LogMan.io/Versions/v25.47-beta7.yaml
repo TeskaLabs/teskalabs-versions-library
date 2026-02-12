@@ -2,8 +2,8 @@
 define:
   type: rc/version
   product: LogMan.io
-  version: v25.47
-  asab_maestro_application: v25.47
+  version: v25.47-beta7
+  asab_maestro_application: v25.47-beta7
 
 versions:
   # Common Library
