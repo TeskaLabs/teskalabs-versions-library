@@ -40,7 +40,7 @@ versions:
   webapp lmio_detection_webui: v25.38-beta11
 
   # External dependencies
-  acmesh: 3.0.7
+  acmesh: 3.1.2
   burrow: v24.16
   elasticsearch: '7.17.28'
   grafana: '12.3'
