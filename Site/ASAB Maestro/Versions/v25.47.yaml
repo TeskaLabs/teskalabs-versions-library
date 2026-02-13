@@ -15,7 +15,7 @@ versions:
   # ASAB
   asab-config: v25.47
   asab-discovery: v25.15.04
-  asab-governator: v25.47-beta3
+  asab-governator: v25.47
   asab-iris: v25.47-beta2
   asab-library: v25.47-beta2
   asab-pyppeteer: v25.47-beta2
