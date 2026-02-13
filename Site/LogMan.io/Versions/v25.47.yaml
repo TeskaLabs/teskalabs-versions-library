@@ -17,7 +17,7 @@ versions:
   # Event Processing
   lmio-collector: v25.47
   lmio-collector-system: v25.47
-  lmio-receiver: v25.47-beta2
+  lmio-receiver: v25.47
   lmio-ededup: v25.50-beta
 
   lmio-parsec: v25.47-beta4
