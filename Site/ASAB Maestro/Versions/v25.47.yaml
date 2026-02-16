@@ -20,7 +20,7 @@ versions:
   asab-library: v25.47
   asab-pyppeteer: v25.47
   asab-remote-control: v25.47
-  bs-query: v25.46-beta
+  bs-query: v25.46
 
   # WebUI
   webapp lmio_webui: v25.38-beta12
