@@ -9,7 +9,7 @@ versions:
   library asab-maestro-library: v25.47
 
   # SeaCat Auth
-  seacat-auth: v25.38-beta1
+  seacat-auth: v25.38
   webapp seacat_auth_webui: v25.38-beta12
 
   # ASAB
