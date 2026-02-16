@@ -18,7 +18,7 @@ versions:
   lmio-collector: v25.47
   lmio-collector-system: v25.47
   lmio-receiver: v25.47
-  lmio-ededup: v25.50-beta
+  lmio-ededup: v26.03
 
   lmio-parsec: v25.47
   lmio-parser-builder: v25.47
@@ -37,7 +37,7 @@ versions:
 
   lmio-alerts: v25.46
 
-  lmio-integ: v26.03
+  lmio-integ: v25.47
 
   lmio-categorix: v24.45.09
 
