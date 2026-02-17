@@ -16,7 +16,7 @@ versions:
 
   # Event Processing
   lmio-collector: v26.06
-  lmio-collector-system: v25.47
+  lmio-collector-system: v26.06
   lmio-receiver: v25.47.01
   lmio-ededup: v26.03
 
