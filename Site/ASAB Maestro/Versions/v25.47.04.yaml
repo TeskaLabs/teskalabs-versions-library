@@ -10,7 +10,7 @@ versions:
 
   # SeaCat Auth
   seacat-auth: v25.38
-  webapp seacat_auth_webui: v25.38.01
+  webapp seacat_auth_webui: v25.38.02
 
   # ASAB
   asab-config: v25.47
@@ -23,21 +23,21 @@ versions:
   bs-query: v25.46.01
 
   # WebUI
-  webapp lmio_webui: v25.38.01
-  webapp asab_config_webui: v25.38.01
-  webapp asab_library_webui: v25.38.01
-  webapp asab_maestro_webui: v25.38.01
-  webapp asab_tools_webui: v25.38.01
-  webapp bs_query_webui: v25.38.01
-  webapp lmio_analysis_webui: v25.38.01
-  webapp lmio_lookup_webui: v25.38.01
-  webapp lmio_observability_webui: v25.38.01
-  webapp lmio_alert_management_webui: v25.38.01
-  webapp lmio_parser_builder_webui: v25.38.01
-  webapp seacat_admin_webui: v25.38.01
-  webapp seacat_account_webui: v25.38.01
-  webapp lmio_logsources_webui: v25.38.01
-  webapp lmio_detection_webui: v25.38.01
+  webapp lmio_webui: v25.38.02
+  webapp asab_config_webui: v25.38.02
+  webapp asab_library_webui: v25.38.02
+  webapp asab_maestro_webui: v25.38.02
+  webapp asab_tools_webui: v25.38.02
+  webapp bs_query_webui: v25.38.02
+  webapp lmio_analysis_webui: v25.38.02
+  webapp lmio_lookup_webui: v25.38.02
+  webapp lmio_observability_webui: v25.38.02
+  webapp lmio_alert_management_webui: v25.38.02
+  webapp lmio_parser_builder_webui: v25.38.02
+  webapp seacat_admin_webui: v25.38.02
+  webapp seacat_account_webui: v25.38.02
+  webapp lmio_logsources_webui: v25.38.02
+  webapp lmio_detection_webui: v25.38.02
 
   # External dependencies
   acmesh: 3.1.2
