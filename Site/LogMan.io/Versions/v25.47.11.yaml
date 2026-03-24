@@ -18,7 +18,7 @@ versions:
   lmio-collector: v26.06
   lmio-collector-system: v26.06
   lmio-receiver: v25.47.02
-  lmio-ededup: v26.03
+  lmio-ededup: v26.03.01
 
   lmio-parsec: v25.47.04
   lmio-parser-builder: v25.47.04
