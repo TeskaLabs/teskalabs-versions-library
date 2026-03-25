@@ -7,7 +7,7 @@ define:
 
 versions:
   # Common Library
-  library lmio-common-library: v26.12-beta
+  library lmio-common-library: v26.12-beta2
 
   # Orchestration
   lmio-elman: v26.12-beta
@@ -20,7 +20,7 @@ versions:
   lmio-receiver: v26.12-beta2
   lmio-ededup: v26.03.01
 
-  lmio-parsec: v26.12-beta
+  lmio-parsec: v26.12-beta2
   lmio-parser-builder: v26.12-beta
   lmio-lookupbuilder: v26.12
   lmio-ipaddrproc: v26.12
@@ -29,8 +29,8 @@ versions:
 
   # Analytics
   lmio-baseliner: v25.47.02
-  lmio-correlator: v25.47.05
-  lmio-correlator-builder: v25.47.05
+  lmio-correlator: v25.47.07
+  lmio-correlator-builder: v25.47.07
 
   lmio-feeds: v26.12-beta
   lmio-watcher: v26.12-beta
