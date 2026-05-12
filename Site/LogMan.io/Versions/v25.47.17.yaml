@@ -11,7 +11,7 @@ versions:
 
   # Orchestration
   lmio-elman: v25.47.03
-  lmio-trex: v25.33.08
+  lmio-trex: v25.33.09
   lmio-franz: v25.47
 
   # Event Processing
@@ -35,7 +35,7 @@ versions:
   lmio-feeds: v25.20.19
   lmio-watcher: v25.30.06
 
-  lmio-alerts: v25.46.05
+  lmio-alerts: v25.46.06
 
   lmio-integ: v25.47.02
 
