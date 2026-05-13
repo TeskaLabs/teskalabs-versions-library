@@ -10,7 +10,7 @@ versions:
   library lmio-common-library: v25.47.07
 
   # Orchestration
-  lmio-elman: v25.47.03
+  lmio-elman: v25.47.04
   lmio-trex: v25.33.09
   lmio-franz: v25.47
 
@@ -42,4 +42,4 @@ versions:
   lmio-categorix: v24.45.10
 
   # Chart
-  lmio-chart: v25.42.07
+  lmio-chart: v25.42.08
