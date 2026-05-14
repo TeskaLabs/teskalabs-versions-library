@@ -22,24 +22,24 @@ versions:
 
   lmio-parsec: v25.47.06
   lmio-parser-builder: v25.47.06
-  lmio-lookupbuilder: v25.03.15
-  lmio-ipaddrproc: v25.03.17
+  lmio-lookupbuilder: v25.03.16
+  lmio-ipaddrproc: v25.03.18
 
-  lmio-depositor: v25.35.04
+  lmio-depositor: v25.35.05
 
   # Analytics
-  lmio-baseliner: v25.47.03
-  lmio-correlator: v25.47.14
-  lmio-correlator-builder: v25.47.14
+  lmio-baseliner: v25.47.04
+  lmio-correlator: v25.47.19
+  lmio-correlator-builder: v25.47.19
 
-  lmio-feeds: v25.20.19
-  lmio-watcher: v25.30.06
+  lmio-feeds: v25.20.20
+  lmio-watcher: v25.30.07
 
   lmio-alerts: v25.46.06
 
   lmio-integ: v25.47.02
 
-  lmio-categorix: v24.45.10
+  lmio-categorix: v24.45.11
 
   # Chart
   lmio-chart: v25.42.08

@@ -14,7 +14,7 @@ versions:
 
   # ASAB
   asab-config: v25.47.01
-  asab-discovery: v25.15.06
+  asab-discovery: v25.15.08
   asab-governator: v25.47.02
   asab-iris: v25.47.02
   asab-library: v25.47.02
