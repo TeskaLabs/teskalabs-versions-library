@@ -15,13 +15,13 @@ versions:
   lmio-franz: v25.47
 
   # Event Processing
-  lmio-collector: v26.06.01
-  lmio-collector-system: v26.06.01
+  lmio-collector: v26.06.02
+  lmio-collector-system: v26.06.02
   lmio-receiver: v25.47.02
   lmio-ededup: v26.03.01
 
-  lmio-parsec: v25.47.06
-  lmio-parser-builder: v25.47.06
+  lmio-parsec: v25.47.08
+  lmio-parser-builder: v25.47.08
   lmio-lookupbuilder: v25.03.16
   lmio-ipaddrproc: v25.03.18
 
@@ -37,7 +37,7 @@ versions:
 
   lmio-alerts: v25.46.06
 
-  lmio-integ: v25.47.02
+  lmio-integ: v25.47.03
 
   lmio-categorix: v24.45.11
 
