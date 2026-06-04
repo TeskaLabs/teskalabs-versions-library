@@ -19,7 +19,7 @@ versions:
   asab-iris: v26.12
   asab-library: v26.12
   asab-pyppeteer: v25.47.02
-  asab-remote-control: v26.13
+  asab-remote-control: v26.13.01
   bs-query: v26.09
 
   # WebUI
