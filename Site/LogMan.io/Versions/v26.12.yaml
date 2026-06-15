@@ -25,7 +25,7 @@ versions:
   lmio-lookupbuilder: v26.12.06
   lmio-ipaddrproc: v26.12.06
 
-  lmio-depositor: v26.12.03
+  lmio-depositor: v26.12.04
 
   # Analytics
   lmio-baseliner: v25.47.06
