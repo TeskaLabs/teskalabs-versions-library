@@ -7,7 +7,7 @@ define:
 
 versions:
   # Common Library
-  library lmio-common-library: v26.12
+  library lmio-common-library: v26.12.01
 
   # Orchestration
   lmio-elman: v26.12
@@ -17,20 +17,20 @@ versions:
   # Event Processing
   lmio-collector: v26.06.03
   lmio-collector-system: v26.06.03
-  lmio-receiver: v26.12 # update needed to fix a bug in receiver
+  lmio-receiver: v26.18
   lmio-ededup: v26.03.01
 
-  lmio-parsec: v26.12
-  lmio-parser-builder: v26.12
-  lmio-lookupbuilder: v26.12.04
-  lmio-ipaddrproc: v26.12.04
+  lmio-parsec: v26.12.01
+  lmio-parser-builder: v26.12.01
+  lmio-lookupbuilder: v26.12.06
+  lmio-ipaddrproc: v26.12.06
 
   lmio-depositor: v26.12.03
 
   # Analytics
   lmio-baseliner: v25.47.06
-  lmio-correlator: v25.47.20
-  lmio-correlator-builder: v25.47.20
+  lmio-correlator: v25.47.21
+  lmio-correlator-builder: v25.47.21
 
   lmio-feeds: v26.12.01
   lmio-watcher: v26.12
