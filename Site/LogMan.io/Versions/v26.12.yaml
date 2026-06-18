@@ -12,7 +12,7 @@ versions:
   # Orchestration
   lmio-elman: v26.12
   lmio-trex: v25.33.10
-  lmio-franz: v26.17
+  lmio-franz: v26.17.01
 
   # Event Processing
   lmio-collector: v26.06.03
@@ -20,8 +20,8 @@ versions:
   lmio-receiver: v26.18
   lmio-ededup: v26.03.01
 
-  lmio-parsec: v26.12.01
-  lmio-parser-builder: v26.12.01
+  lmio-parsec: v26.12.02
+  lmio-parser-builder: v26.12.02
   lmio-lookupbuilder: v26.12.06
   lmio-ipaddrproc: v26.12.06
 
