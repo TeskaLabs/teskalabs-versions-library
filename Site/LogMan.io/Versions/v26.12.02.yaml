@@ -7,7 +7,7 @@ define:
 
 versions:
   # Common Library
-  library lmio-common-library: v26.12.04
+  library lmio-common-library: v26.12.05
 
   # Orchestration
   lmio-elman: v26.12.02
@@ -42,4 +42,4 @@ versions:
   lmio-categorix: v24.45.11
 
   # Chart
-  lmio-chart: v26.12.01
+  lmio-chart: v26.12.03
