@@ -2,7 +2,7 @@
 define:
   type: rc/version
   product: ASAB Maestro
-  version: v26.12.09
+  version: v26.12.10
 
 versions:
   # ASAB Maestro Library
