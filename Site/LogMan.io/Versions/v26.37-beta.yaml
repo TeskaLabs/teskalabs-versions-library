@@ -1,0 +1,69 @@
+---
+define:
+  type: rc/version
+  product: LogMan.io
+  version: v26.37-beta
+  asab_maestro_application: v26.37-beta
+
+versions:
+  # Common Library
+  library lmio-common-library: v26.36-beta
+
+  # Orchestration
+  lmio-elman: v26.37-beta
+  lmio-trex:  v26.37-beta
+  lmio-franz: v26.33-beta
+
+  # Event Processing
+  lmio-collector: v26.16
+  lmio-collector-slim: v26.16
+  lmio-collector-system: v26.16
+  lmio-receiver: v26.36.01
+  lmio-ededup: v26.33
+
+  lmio-parsec: v26.33-beta
+  lmio-parser-builder: v26.33-beta
+  lmio-lookupbuilder: v26.37-beta
+  lmio-ipaddrproc: v26.37-beta
+
+  lmio-depositor: v26.37-beta
+
+  # Analytics
+  lmio-baseliner: v26.37-beta
+  lmio-correlator: v26.37-beta
+  lmio-correlator-builder: v26.37-beta
+
+  lmio-feeds: v26.37-beta
+  lmio-watcher: v26.37-beta
+
+  lmio-alerts: v26.37-alpha2 # 9/9/26, New Instant Notifications (PubSub)
+
+  lmio-integ: v26.33
+
+  lmio-categorix: v26.37-beta # Obsoleted service
+
+  lmio-assets: v26.37-beta
+
+  # Chart
+  lmio-chart: v26.15-alpha26
+
+  # Testing
+  lmio-profiler: v26.37-beta # Hidden service
+
+  # WebUI
+  webapp lmio_webui: v26.13-alpha183
+  webapp seacat_auth_webui: v26.13-alpha183
+  webapp asab_config_webui: v26.13-alpha183
+  webapp asab_library_webui: v26.13-alpha183
+  webapp asab_maestro_webui: v26.13-alpha183
+  webapp asab_tools_webui: v26.13-alpha183
+  webapp bs_query_webui: v26.13-alpha183
+  webapp lmio_analysis_webui: v26.13-alpha183
+  webapp lmio_lookup_webui: v26.13-alpha183
+  webapp lmio_observability_webui: v26.13-alpha183
+  webapp lmio_alert_management_webui: v26.13-alpha183
+  webapp lmio_parser_builder_webui: v26.13-alpha183
+  webapp seacat_admin_webui: v26.13-alpha183
+  webapp seacat_account_webui: v26.13-alpha183
+  webapp lmio_logsources_webui: v26.13-alpha183
+  webapp lmio_detection_webui: v26.13-alpha183
