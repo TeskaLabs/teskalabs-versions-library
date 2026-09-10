@@ -35,7 +35,6 @@ versions:
 
   lmio-feeds: v26.37-beta
   lmio-watcher: v26.37-beta
-  lmio-threshold: v26.36-alpha2 (will not be part od this release)
 
   lmio-alerts: v26.37-alpha2 # 9/9/26, New Instant Notifications (PubSub)
 
