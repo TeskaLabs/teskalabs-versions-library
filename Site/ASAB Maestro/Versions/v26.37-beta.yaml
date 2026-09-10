@@ -1,0 +1,40 @@
+---
+define:
+  type: rc/version
+  product: ASAB Maestro
+  version: v26.37-beta
+
+versions:
+  # ASAB Maestro Library
+  library asab-maestro-library: v26.37-beta
+
+  # SeaCat Auth
+  seacat-auth: v26.15-beta
+
+  # ASAB
+  asab-config: v26.37-beta
+  asab-discovery: v26.37-beta
+  asab-governator: v26.37-beta
+  asab-iris: v26.37-beta
+  asab-library: v26.37-beta
+  asab-lighthouse: v26.37-beta2
+  asab-pyppeteer: v26.31-beta2
+  asab-remote-control: v26.37-beta
+  bs-query: v26.34-beta
+
+ # External dependencies
+  acmesh: 3.1.2
+  burrow: v24.16
+  elasticsearch: 7.17.28
+  grafana: '12.3'  # Quotes must stay here b/c 12.3 is a valid number
+  influxdb: 2.7.12
+  jupyter: lab-4.0.9
+  kafdrop: 4.2.0
+  kafka: 7.9.0
+  kibana: 7.17.28
+  mongo: 7.0.28
+  nginx: 1.30.4
+  rabbitmq: 4.3.5
+  telegraf: 1.36.1
+  zookeeper: 3.9.5
+  zoonavigator: 1.1.3
