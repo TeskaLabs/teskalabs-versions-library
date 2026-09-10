@@ -12,7 +12,7 @@ versions:
   seacat-auth: v26.15-beta
 
   # ASAB
-  asab-config: v25.47
+  asab-config: v26.37-beta
   asab-discovery: v26.37-beta
   asab-governator: v26.37-beta
   asab-iris: v26.37-beta

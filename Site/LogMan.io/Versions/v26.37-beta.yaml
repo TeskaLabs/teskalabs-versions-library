@@ -45,7 +45,7 @@ versions:
   lmio-assets: v26.37-beta
 
   # Chart
-  lmio-chart: v26.15-alpha24
+  lmio-chart: v26.15-alpha26
 
   # Testing
   lmio-profiler: v26.37-beta # Hidden service
