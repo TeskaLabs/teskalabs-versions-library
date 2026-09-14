@@ -3,7 +3,7 @@ define:
   type: rc/version
   product: LogMan.io
   version: v26.37-beta2
-  asab_maestro_application: v26.37-beta
+  asab_maestro_application: v26.37-beta2
 
 versions:
   # Common Library
@@ -51,19 +51,19 @@ versions:
   lmio-profiler: v26.37-beta # Hidden service
 
   # WebUI
-  webapp lmio_webui: v26.13-alpha183
-  webapp seacat_auth_webui: v26.13-alpha183
-  webapp asab_config_webui: v26.13-alpha183
-  webapp asab_library_webui: v26.13-alpha183
-  webapp asab_maestro_webui: v26.13-alpha183
-  webapp asab_tools_webui: v26.13-alpha183
-  webapp bs_query_webui: v26.13-alpha183
-  webapp lmio_analysis_webui: v26.13-alpha183
-  webapp lmio_lookup_webui: v26.13-alpha183
-  webapp lmio_observability_webui: v26.13-alpha183
-  webapp lmio_alert_management_webui: v26.13-alpha183
-  webapp lmio_parser_builder_webui: v26.13-alpha183
-  webapp seacat_admin_webui: v26.13-alpha183
-  webapp seacat_account_webui: v26.13-alpha183
-  webapp lmio_logsources_webui: v26.13-alpha183
-  webapp lmio_detection_webui: v26.13-alpha183
+  webapp lmio_webui: v26.13-alpha185
+  webapp seacat_auth_webui: v26.13-alpha185
+  webapp asab_config_webui: v26.13-alpha185
+  webapp asab_library_webui: v26.13-alpha185
+  webapp asab_maestro_webui: v26.13-alpha185
+  webapp asab_tools_webui: v26.13-alpha185
+  webapp bs_query_webui: v26.13-alpha185
+  webapp lmio_analysis_webui: v26.13-alpha185
+  webapp lmio_lookup_webui: v26.13-alpha185
+  webapp lmio_observability_webui: v26.13-alpha185
+  webapp lmio_alert_management_webui: v26.13-alpha185
+  webapp lmio_parser_builder_webui: v26.13-alpha185
+  webapp seacat_admin_webui: v26.13-alpha185
+  webapp seacat_account_webui: v26.13-alpha185
+  webapp lmio_logsources_webui: v26.13-alpha185
+  webapp lmio_detection_webui: v26.13-alpha185
