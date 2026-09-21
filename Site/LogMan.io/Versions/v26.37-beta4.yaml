@@ -11,7 +11,7 @@ versions:
 
   # Orchestration
   lmio-elman: v26.37-beta
-  lmio-trex:  v26.37-beta
+  lmio-trex:  v26.37-beta3
   lmio-franz: v26.33-beta
 
   # Event Processing
@@ -33,7 +33,7 @@ versions:
   lmio-correlator: v26.37-beta
   lmio-correlator-builder: v26.37-beta
 
-  lmio-feeds: v26.37-beta
+  lmio-feeds: v26.37-beta3
   lmio-watcher: v26.37-beta
 
   lmio-alerts: v26.37-alpha2 # 9/9/26, New Instant Notifications (PubSub)
