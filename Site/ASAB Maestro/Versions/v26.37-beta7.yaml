@@ -14,13 +14,13 @@ versions:
   # ASAB
   asab-config: v26.37-beta
   asab-discovery: v26.37-beta2
-  asab-governator: v26.37-beta
-  asab-iris: v26.37-beta2
-  asab-library: v26.37-beta3
+  asab-governator: v26.37-beta2
+  asab-iris: v26.37-beta3
+  asab-library: v26.37-beta4
   asab-lighthouse: v26.37-beta2
-  asab-pyppeteer: v26.31-beta2
-  asab-remote-control: v26.37-beta2
-  bs-query: v26.34-beta
+  asab-pyppeteer: v26.31-beta4
+  asab-remote-control: v26.37-beta3
+  bs-query: v26.34-beta3
 
  # External dependencies
   acmesh: 3.1.2

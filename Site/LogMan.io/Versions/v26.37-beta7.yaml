@@ -15,40 +15,40 @@ versions:
   lmio-franz: v26.33-beta
 
   # Event Processing
-  lmio-collector: v26.16
-  lmio-collector-slim: v26.16
-  lmio-collector-system: v26.16
-  lmio-receiver: v26.36.01
+  lmio-collector: v26.40-beta2
+  lmio-collector-slim: v26.40-beta2
+  lmio-collector-system: v26.40-beta2
+  lmio-receiver: v26.40-beta3
   lmio-ededup: v26.33
 
-  lmio-parsec: v26.33-beta
-  lmio-parser-builder: v26.33-beta
-  lmio-lookupbuilder: v26.37-beta2
-  lmio-ipaddrproc: v26.37-beta2
+  lmio-parsec: v26.33-beta3
+  lmio-parser-builder: v26.33-beta3
+  lmio-lookupbuilder: v26.37-beta3
+  lmio-ipaddrproc: v26.37-beta3
 
-  lmio-depositor: v26.37-beta3
+  lmio-depositor: v26.37-beta6
 
   # Analytics
-  lmio-baseliner: v26.37-beta10
-  lmio-correlator: v26.37-beta4
-  lmio-correlator-builder: v26.37-beta4
+  lmio-baseliner: v26.37-beta11
+  lmio-correlator: v26.37-beta5
+  lmio-correlator-builder: v26.37-beta5
 
-  lmio-feeds: v26.37-beta5
-  lmio-watcher: v26.37-beta2
+  lmio-feeds: v26.37-beta6
+  lmio-watcher: v26.37-beta4
 
-  lmio-alerts: v26.37-alpha3 # 9/9/26, New Instant Notifications (PubSub)
+  lmio-alerts: v26.37-beta2 # 9/9/26, New Instant Notifications (PubSub)
 
-  lmio-integ: v26.33
+  lmio-integ: v26.33.02
 
-  lmio-categorix: v26.37-beta2 # Obsoleted service
+  lmio-categorix: v26.37-beta3 # Obsoleted service
 
-  lmio-assets: v26.37-beta7
+  lmio-assets: v26.37-beta8
 
   # Chart
   lmio-chart: v26.15-alpha26
 
   # Testing
-  lmio-profiler: v26.37-beta3 # Hidden service
+  lmio-profiler: v26.37-beta4 # Hidden service
 
   # WebUI
   webapp lmio_webui: v26.13-alpha198
