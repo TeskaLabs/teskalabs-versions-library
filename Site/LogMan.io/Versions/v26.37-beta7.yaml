@@ -10,9 +10,9 @@ versions:
   library lmio-common-library: v26.36-beta2
 
   # Orchestration
-  lmio-elman: v26.37-beta
+  lmio-elman: v26.37-beta2
   lmio-trex:  v26.37-beta8
-  lmio-franz: v26.33-beta
+  lmio-franz: v26.33-beta2
 
   # Event Processing
   lmio-collector: v26.40-beta2
@@ -45,7 +45,7 @@ versions:
   lmio-assets: v26.37-beta8
 
   # Chart
-  lmio-chart: v26.15-alpha26
+  lmio-chart: v26.15-alpha32
 
   # Testing
   lmio-profiler: v26.37-beta4 # Hidden service
