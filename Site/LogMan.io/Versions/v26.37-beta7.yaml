@@ -11,7 +11,7 @@ versions:
 
   # Orchestration
   lmio-elman: v26.37-beta2
-  lmio-trex:  v26.37-beta8
+  lmio-trex:  v26.37-beta9
   lmio-franz: v26.33-beta2
 
   # Event Processing
@@ -19,7 +19,7 @@ versions:
   lmio-collector-slim: v26.40-beta2
   lmio-collector-system: v26.40-beta2
   lmio-receiver: v26.40-beta3
-  lmio-ededup: v26.33
+  lmio-ededup: v26.41-beta
 
   lmio-parsec: v26.33-beta3
   lmio-parser-builder: v26.33-beta3
