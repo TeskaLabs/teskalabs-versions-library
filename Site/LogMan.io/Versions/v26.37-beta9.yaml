@@ -7,7 +7,7 @@ define:
 
 versions:
   # Common Library
-  library lmio-common-library: v26.36-beta5
+  library lmio-common-library: v26.36-beta7
 
   # Orchestration
   lmio-elman: v26.37-beta3
@@ -37,7 +37,7 @@ versions:
   lmio-feeds: v26.37-beta6
   lmio-watcher: v26.37-beta6
 
-  lmio-alerts: v26.37-beta2 # 9/9/26, New Instant Notifications (PubSub)
+  lmio-alerts: v26.37-beta3 # 9/9/26, New Instant Notifications (PubSub)
 
   lmio-integ: v26.33.02
 
@@ -52,20 +52,20 @@ versions:
   lmio-profiler: v26.37-beta4 # Hidden service
 
   # WebUI
-  webapp lmio_webui: v26.13-beta2
-  webapp seacat_auth_webui: v26.13-beta2
-  webapp asab_config_webui: v26.13-beta2
-  webapp asab_library_webui: v26.13-beta2
-  webapp asab_maestro_webui: v26.13-beta2
-  webapp asab_tools_webui: v26.13-beta2
-  webapp bs_query_webui: v26.13-beta2
-  webapp lmio_analysis_webui: v26.13-beta2
-  webapp lmio_lookup_webui: v26.13-beta2
-  webapp lmio_observability_webui: v26.13-beta2
-  webapp lmio_alert_management_webui: v26.13-beta2
-  webapp lmio_parser_builder_webui: v26.13-beta2
-  webapp seacat_admin_webui: v26.13-beta2
-  webapp seacat_account_webui: v26.13-beta2
-  webapp lmio_logsources_webui: v26.13-beta2
-  webapp lmio_detection_webui: v26.13-beta2
+  webapp lmio_webui: v26.13-beta3
+  webapp seacat_auth_webui: v26.13-beta3
+  webapp asab_config_webui: v26.13-beta3
+  webapp asab_library_webui: v26.13-beta3
+  webapp asab_maestro_webui: v26.13-beta3
+  webapp asab_tools_webui: v26.13-beta3
+  webapp bs_query_webui: v26.13-beta3
+  webapp lmio_analysis_webui: v26.13-beta3
+  webapp lmio_lookup_webui: v26.13-beta3
+  webapp lmio_observability_webui: v26.13-beta3
+  webapp lmio_alert_management_webui: v26.13-beta3
+  webapp lmio_parser_builder_webui: v26.13-beta3
+  webapp seacat_admin_webui: v26.13-beta3
+  webapp seacat_account_webui: v26.13-beta3
+  webapp lmio_logsources_webui: v26.13-beta3
+  webapp lmio_detection_webui: v26.13-beta3
   webapp llm_microlink_webui: v26.41-beta2
