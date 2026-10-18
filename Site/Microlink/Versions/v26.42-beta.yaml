@@ -1,0 +1,20 @@
+---
+define:
+  type: rc/version
+  product: Microlink
+  version: v26.42-beta
+  asab_maestro_application: v26.37-beta9
+
+versions:
+  # AI Library
+  library lmio-ai-library: v26.42-alpha1
+
+  lmio-microlink: v26.42-alpha1
+
+  # WebUI
+  webapp llm_microlink_webui: v26.42-alpha2
+  webapp seacat_auth_webui: v26.13-beta3
+  webapp asab_config_webui: v26.13-beta3
+  webapp asab_library_webui: v26.13-beta  
+  webapp seacat_admin_webui: v26.13-beta3
+  webapp seacat_account_webui: v26.13-beta3
