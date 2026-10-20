@@ -12,7 +12,7 @@ versions:
   lmio-microlink: v26.42-alpha1
 
   # WebUI
-  webapp lmio_microlink_webui: v26.42-alpha5
+  webapp lmio_microlink_webui: v26.42-alpha6
   webapp seacat_auth_webui: v26.13-beta3
   webapp asab_config_webui: v26.13-beta3
   webapp asab_library_webui: v26.13-beta  
