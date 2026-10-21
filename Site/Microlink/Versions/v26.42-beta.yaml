@@ -7,7 +7,7 @@ define:
 
 versions:
   # AI Library
-  library lmio-ai-library: v26.42-alpha4
+  library lmio-ai-library: v26.42-alpha5
 
   lmio-microlink: v26.42-alpha1
 
