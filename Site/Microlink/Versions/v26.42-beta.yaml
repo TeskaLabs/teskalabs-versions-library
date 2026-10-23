@@ -3,7 +3,7 @@ define:
   type: rc/version
   product: Microlink
   version: v26.42-beta
-  asab_maestro_application: v26.37-beta9
+  asab_maestro_application: v26.37-beta10
 
 versions:
   # AI Library
