@@ -19,7 +19,7 @@ versions:
   lmio-collector-slim: v26.40
   lmio-collector-system: v26.40
   lmio-receiver: v26.40
-  lmio-ededup: v26.41-beta
+  lmio-ededup: v26.37
 
   lmio-parsec: v26.33.01
   lmio-parser-builder: v26.33.01
@@ -51,19 +51,19 @@ versions:
   lmio-profiler: v26.37.01 # Hidden service
 
   # WebUI
-  webapp lmio_webui: v26.13
-  webapp seacat_auth_webui: v26.13
-  webapp asab_config_webui: v26.13
-  webapp asab_library_webui: v26.13
-  webapp asab_maestro_webui: v26.13
-  webapp asab_tools_webui: v26.13
-  webapp bs_query_webui: v26.13
-  webapp lmio_analysis_webui: v26.13
-  webapp lmio_lookup_webui: v26.13
-  webapp lmio_observability_webui: v26.13
-  webapp lmio_alert_management_webui: v26.13
-  webapp lmio_parser_builder_webui: v26.13
-  webapp seacat_admin_webui: v26.13
-  webapp seacat_account_webui: v26.13
-  webapp lmio_logsources_webui: v26.13
-  webapp lmio_detection_webui: v26.13
+  webapp lmio_webui: v26.13.01
+  webapp seacat_auth_webui: v26.13.01
+  webapp asab_config_webui: v26.13.01
+  webapp asab_library_webui: v26.13.01
+  webapp asab_maestro_webui: v26.13.01
+  webapp asab_tools_webui: v26.13.01
+  webapp bs_query_webui: v26.13.01
+  webapp lmio_analysis_webui: v26.13.01
+  webapp lmio_lookup_webui: v26.13.01
+  webapp lmio_observability_webui: v26.13.01
+  webapp lmio_alert_management_webui: v26.13.01
+  webapp lmio_parser_builder_webui: v26.13.01
+  webapp seacat_admin_webui: v26.13.01
+  webapp seacat_account_webui: v26.13.01
+  webapp lmio_logsources_webui: v26.13.01
+  webapp lmio_detection_webui: v26.13.01
