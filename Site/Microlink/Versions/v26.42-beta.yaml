@@ -9,7 +9,7 @@ versions:
   # AI Library
   library lmio-ai-library: v26.42-alpha13
 
-  lmio-microlink: v26.42-alpha5
+  lmio-microlink: v26.42-alpha6
 
   # WebUI
   webapp lmio_microlink_webui: v26.42-alpha12
