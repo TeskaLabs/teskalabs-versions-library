@@ -9,12 +9,12 @@ versions:
   library asab-maestro-library: v26.37.01
 
   # SeaCat Auth
-  seacat-auth: v26.15.01
+  seacat-auth: v26.15.02
 
   # ASAB
   asab-config: v26.37
   asab-discovery: v26.37
-  asab-governator: v26.43.01
+  asab-governator: v26.43.02
   asab-iris: v26.37
   asab-library: v26.37
   asab-lighthouse: v26.37
