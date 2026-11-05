@@ -16,17 +16,17 @@ versions:
   asab-discovery: v26.37
   asab-governator: v26.43.01
   asab-iris: v26.37
-  asab-library: v26.37  # TODO
+  asab-library: v26.37
   asab-lighthouse: v26.37
-  asab-pyppeteer: v26.31  # TODO
+  asab-pyppeteer: v26.31
   asab-remote-control: v26.43.01
-  bs-query: v26.34  # TODO
+  bs-query: v26.34
 
  # External dependencies
   acmesh: 3.1.2
   burrow: v24.16
   elasticsearch: 8.19.12
-  grafana: '12.3'  # Quotes must stay here b/c 12.3 is a valid number
+  grafana: '12.3'
   influxdb: 2.7.12
   jupyter: lab-4.0.9
   kafdrop: 4.2.0
