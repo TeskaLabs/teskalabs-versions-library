@@ -3,9 +3,12 @@ define:
   type: rc/version
   product: Microlink
   version: v26.42-beta
-  asab_maestro_application: v26.37
 
 versions:
+  # Dependency on the ASAB Maestro
+  # https://github.com/TeskaLabs/teskalabs-versions-library/tree/main/Site/ASAB%20Maestro/Versions
+  application ASAB Maestro: v26.37
+
   # AI Library
   library lmio-ai-library: v26.42-beta1
 
