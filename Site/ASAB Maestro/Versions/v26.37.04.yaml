@@ -6,7 +6,7 @@ define:
 
 versions:
   # ASAB Maestro Library
-  library asab-maestro-library: v26.37.02
+  library asab-maestro-library: v26.37.03
 
   # SeaCat Auth
   seacat-auth: v26.15.02
