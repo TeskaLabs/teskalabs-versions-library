@@ -10,7 +10,7 @@ versions:
   library lmio-ai-library: v26.42-beta1
 
   # Backend microservice
-  lmio-microlink: v26.42-beta1
+  lmio-microlink: v26.42-beta3
 
   # WebUI microfrontend
   webapp lmio_microlink_webui: v26.42.01
