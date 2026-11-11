@@ -6,7 +6,7 @@ define:
 
 versions:
   # ASAB Maestro Library
-  library asab-maestro-library: v26.37.02
+  library asab-maestro-library: v26.37.03
 
   # SeaCat Auth
   seacat-auth: v26.15.02
@@ -26,6 +26,8 @@ versions:
   acmesh: 3.1.2
   burrow: v24.16
   elasticsearch: 8.19.12
+  frpc: 0.72.0-alpine
+  frps: 0.72.0-alpine
   grafana: '12.3'
   influxdb: 2.7.12
   jupyter: lab-4.0.9
