@@ -7,13 +7,13 @@ define:
 
 versions:
   # AI Library
-  library lmio-ai-library: v26.42-beta1
+  library lmio-ai-library: v26.42.01
 
   # Backend microservice
-  lmio-microlink: v26.42-beta3
+  lmio-microlink: v26.42-beta4
 
   # WebUI microfrontend
-  webapp lmio_microlink_webui: v26.42.01
+  webapp lmio_microlink_webui: v26.42.02
 
   webapp seacat_auth_webui: v26.13.07
   webapp asab_config_webui: v26.13.07
