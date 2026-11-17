@@ -15,7 +15,7 @@ versions:
   # WebUI microfrontend
   webapp lmio_microlink_webui: v26.42.03
 
-  # Egress gateway (iron-proxy, pinned release)
+  # Egress gateway for sandboxes
   iron-proxy: 0.56.0
 
   webapp seacat_auth_webui: v26.13.07
