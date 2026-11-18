@@ -6,7 +6,7 @@ define:
 
 versions:
   # ASAB Maestro Library
-  library asab-maestro-library: v26.37.03
+  library asab-maestro-library: v26.37.04
 
   # SeaCat Auth
   seacat-auth: v26.15.02
@@ -14,12 +14,12 @@ versions:
   # ASAB
   asab-config: v26.37
   asab-discovery: v26.37
-  asab-governator: v26.43.02
+  asab-governator: v26.43.03
   asab-iris: v26.37
-  asab-library: v26.37
+  asab-library: v26.37.01
   asab-lighthouse: v26.37
   asab-pyppeteer: v26.31.01
-  asab-remote-control: v26.46
+  asab-remote-control: v26.46.01
   bs-query: v26.34
 
  # External dependencies
