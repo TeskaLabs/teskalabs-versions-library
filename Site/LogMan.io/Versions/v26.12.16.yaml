@@ -10,30 +10,30 @@ versions:
   library lmio-common-library: v26.12.15
 
   # Orchestration
-  lmio-elman: v26.12.05
-  lmio-trex: v25.33.10
-  lmio-franz: v26.17.01
+  lmio-elman: v26.12.06
+  lmio-trex: v25.33.12
+  lmio-franz: v26.17.02
 
   # Event Processing
   lmio-collector: v26.16.01
   lmio-collector-system: v26.16.01
-  lmio-receiver: v26.36.02
+  lmio-receiver: v26.36.03
   lmio-ededup: v26.33
 
   lmio-parsec: v26.12.07
   lmio-parser-builder: v26.12.07
-  lmio-lookupbuilder: v26.12.08
-  lmio-ipaddrproc: v26.12.08
+  lmio-lookupbuilder: v26.12.10
+  lmio-ipaddrproc: v26.12.10
 
-  lmio-depositor: v26.12.17
+  lmio-depositor: v26.12.21
 
   # Analytics
-  lmio-baseliner: v25.47.10
-  lmio-correlator: v25.47.30
-  lmio-correlator-builder: v25.47.30
+  lmio-baseliner: v25.47.12
+  lmio-correlator: v25.47.32
+  lmio-correlator-builder: v25.47.32
 
-  lmio-feeds: v26.12.07
-  lmio-watcher: v26.12.03
+  lmio-feeds: v26.12.09
+  lmio-watcher: v26.12.05
 
   lmio-alerts: v26.12.10
 
@@ -42,4 +42,5 @@ versions:
   lmio-categorix: v24.45.11
 
   # Chart
-  lmio-chart: v26.12.07
+  lmio-chart: v26.12.08
+  
