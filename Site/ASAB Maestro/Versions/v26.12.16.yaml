@@ -2,7 +2,7 @@
 define:
   type: rc/version
   product: ASAB Maestro
-  version: v26.12.15
+  version: v26.12.16
 
 versions:
   # ASAB Maestro Library
@@ -55,4 +55,3 @@ versions:
   telegraf: 1.36.1
   zookeeper: 3.9.5
   zoonavigator: 1.1.3
-  
