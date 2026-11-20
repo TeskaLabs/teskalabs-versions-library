@@ -19,7 +19,7 @@ versions:
   asab-library: v26.37.01
   asab-lighthouse: v26.37
   asab-pyppeteer: v26.31.01
-  asab-remote-control: v26.46.01
+  asab-remote-control: v26.46.02
   bs-query: v26.34
 
  # External dependencies
