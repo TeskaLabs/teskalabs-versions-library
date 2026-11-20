@@ -9,14 +9,14 @@ versions:
   library asab-maestro-library: v26.12.03
 
   # SeaCat Auth
-  seacat-auth: v25.48.03
+  seacat-auth: v25.48.04
   webapp seacat_auth_webui: v26.12.08
 
   # ASAB
   asab-config: v25.47.02
-  asab-discovery: v25.15.08
+  asab-discovery: v25.15.09
   asab-governator: v26.11.01
-  asab-iris: v26.12.01
+  asab-iris: v26.12.03
   asab-library: v26.12.02
   asab-pyppeteer: v25.47.05
   asab-remote-control: v26.13.05
