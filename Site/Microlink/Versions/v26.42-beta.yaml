@@ -7,10 +7,10 @@ define:
 
 versions:
   # AI Library
-  library lmio-ai-library: v26.42.07
+  library lmio-ai-library: v26.42.08
 
   # Backend microservice
-  lmio-microlink: v26.42-beta11
+  lmio-microlink: v26.42-beta12
 
   # WebUI microfrontend
   webapp lmio_microlink_webui: v26.42.04
