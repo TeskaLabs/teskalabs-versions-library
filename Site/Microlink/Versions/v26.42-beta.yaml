@@ -7,13 +7,13 @@ define:
 
 versions:
   # AI Library
-  library lmio-ai-library: v26.42.09
+  library lmio-ai-library: v26.42.11
 
   # Backend microservice
-  lmio-microlink: v26.42-beta12
+  lmio-microlink: v26.42-beta13
 
   # WebUI microfrontend
-  webapp lmio_microlink_webui: v26.42.04
+  webapp lmio_microlink_webui: v26.42.05
 
   # Egress gateway for sandboxes
   iron-proxy: 0.56.0
