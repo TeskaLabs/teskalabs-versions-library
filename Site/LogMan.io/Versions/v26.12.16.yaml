@@ -1,0 +1,46 @@
+---
+define:
+  type: rc/version
+  product: LogMan.io
+  version: v26.12.16
+  asab_maestro_application: v26.12.16
+
+versions:
+  # Common Library
+  library lmio-common-library: v26.12.16
+
+  # Orchestration
+  lmio-elman: v26.12.06
+  lmio-trex: v25.33.12
+  lmio-franz: v26.17.02
+
+  # Event Processing
+  lmio-collector: v26.33.02
+  lmio-collector-system: v26.33.02
+  lmio-receiver: v26.36.03
+  lmio-ededup: v26.33
+
+  lmio-parsec: v26.33.02
+  lmio-parser-builder: v26.33.02
+  lmio-lookupbuilder: v26.12.10
+  lmio-ipaddrproc: v26.12.10
+
+  lmio-depositor: v26.12.21
+
+  # Analytics
+  lmio-baseliner: v25.47.12
+  lmio-correlator: v25.47.32
+  lmio-correlator-builder: v25.47.32
+
+  lmio-feeds: v26.12.09
+  lmio-watcher: v26.12.05
+
+  lmio-alerts: v26.12.10
+
+  lmio-integ: v26.33.03
+
+  lmio-categorix: v24.45.11
+
+  # Chart
+  lmio-chart: v26.12.08
+  
