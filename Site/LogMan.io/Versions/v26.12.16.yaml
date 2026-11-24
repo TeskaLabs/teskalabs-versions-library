@@ -20,8 +20,8 @@ versions:
   lmio-receiver: v26.36.03
   lmio-ededup: v26.33
 
-  lmio-parsec: v26.12.07
-  lmio-parser-builder: v26.12.07
+  lmio-parsec: v26.33.02
+  lmio-parser-builder: v26.33.02
   lmio-lookupbuilder: v26.12.10
   lmio-ipaddrproc: v26.12.10
 
