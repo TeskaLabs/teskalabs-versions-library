@@ -15,8 +15,8 @@ versions:
   lmio-franz: v26.17.02
 
   # Event Processing
-  lmio-collector: v26.33.02
-  lmio-collector-system: v26.33.02
+  lmio-collector: v26.16.01
+  lmio-collector-system: v26.16.01
   lmio-receiver: v26.36.03
   lmio-ededup: v26.33
 
