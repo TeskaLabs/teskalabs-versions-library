@@ -1,0 +1,26 @@
+---
+define:
+  type: rc/version
+  product: Microlink
+  version: v26.42
+  asab_maestro_application: v26.37.06
+
+versions:
+  # AI Library
+  library lmio-ai-library: v26.42.12
+
+  # Backend microservice
+  lmio-microlink: v26.42-beta13
+
+  # WebUI microfrontend
+  webapp lmio_microlink_webui: v26.42.05
+
+  # Egress gateway for sandboxes
+  iron-proxy: 0.56.0
+
+  webapp seacat_auth_webui: v26.13.10
+  webapp asab_config_webui: v26.13.10
+  webapp asab_library_webui: v26.13.10
+  webapp asab_maestro_webui: v26.13.10
+  webapp seacat_admin_webui: v26.13.10
+  webapp seacat_account_webui: v26.13.10
