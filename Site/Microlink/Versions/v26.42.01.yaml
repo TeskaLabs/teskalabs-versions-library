@@ -10,7 +10,7 @@ versions:
   application ASAB Maestro: v26.37.06
 
   # AI Library
-  library lmio-ai-library: v26.42.12
+  library lmio-ai-library: v26.42.13
 
   # Backend microservice
   lmio-microlink: v26.42.01
